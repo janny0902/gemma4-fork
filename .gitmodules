@@ -1,0 +1,6 @@
+[submodule "services/stockgod-game"]
+	path = services/stockgod-game
+	url = https://github.com/janny0902/StockGOD-Game.git
+[submodule "services/jadiss-learn-batch"]
+	path = services/jadiss-learn-batch
+	url = https://github.com/janny0902/jadiss-learn-batch.git
